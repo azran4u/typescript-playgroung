@@ -1,6 +1,14 @@
-import express from 'express';
-const app = express();
+import { enumTutorial } from './enum';
 
-app.get('/', (req, res) => res.send('Hello World!'));
+// import { enumTutorial } from './enum';
+// import { classes } from './classes';
 
-app.listen(3000, () => console.log('Example app listening on port 3000!'));
+// import { convertResponseToModel } from './convert-response-to-model';
+// import { interfaceTest } from './interfaces';
+// import { objectsTest } from './objects';
+
+// objectsTest();
+// interfaceTest();
+// convertResponseToModel();
+// classes();
+enumTutorial();
