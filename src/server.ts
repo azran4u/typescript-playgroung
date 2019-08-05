@@ -1,4 +1,4 @@
-import { enumTutorial } from './enum';
+import { lodashTutorial } from './lodash';
 
 // import { enumTutorial } from './enum';
 // import { classes } from './classes';
@@ -11,4 +11,5 @@ import { enumTutorial } from './enum';
 // interfaceTest();
 // convertResponseToModel();
 // classes();
-enumTutorial();
+// enumTutorial();
+lodashTutorial();
