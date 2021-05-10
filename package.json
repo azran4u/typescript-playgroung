@@ -24,6 +24,6 @@
     "@hapi/joi": "^15.1.0",
     "@types/express": "^4.16.0",
     "express": "^4.16.3",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
